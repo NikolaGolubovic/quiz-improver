@@ -25,7 +25,7 @@ const Home = () => {
     signOut(auth)
       .then(() => {
         // Sign-out successful.
-        navigate("/practice");
+        navigate("/quiz");
         console.log("Signed out successfully");
       })
       .catch((error) => {
@@ -36,7 +36,7 @@ const Home = () => {
   return (
     <>
       <div className="homepage">
-        <a href="/practice">
+        <a href="/quiz">
           <img src={process.env.PUBLIC_URL + "/img/slagalica.png"} alt="" />
           <p>Klikni da vežbaš</p>
         </a>
