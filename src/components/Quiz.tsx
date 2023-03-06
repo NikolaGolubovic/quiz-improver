@@ -123,7 +123,6 @@ const Quiz: FC<quizProps> = ({ notify }) => {
     const compareArr: { id: number; solution: string; answer: string; check: boolean; question: string }[] = [];
     let points = 0;
     answers.forEach((solution, index) => {
-      console.log(modifyAnswer(questions[index].answer.toLowerCase()));
       if (
         solution.answer &&
         solution.answer.length > 0 &&
@@ -204,7 +203,9 @@ const Quiz: FC<quizProps> = ({ notify }) => {
         },
         { merge: true }
       );
+      notify("Pitanje je uspešno izbrisano iz beležnice", "success");
     } catch (error) {
+      notify("Došlo je do greške sa brisanjem pitanja", "error");
       console.log(error);
     }
   }
