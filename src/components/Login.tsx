@@ -41,6 +41,7 @@ const Login: FC<loginProps> = ({ notify }) => {
         // ...
       })
       .catch((error) => {
+        notify("Something went wrong " + error.message, "errog");
         // Handle Errors here.
         // const errorCode = error.code;
         // const errorMessage = error.message;
