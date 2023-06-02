@@ -3,13 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD0OnI9xb_cQmlKYVjSSaBNK4hCPzClzrM",
-  authDomain: "quiz-practice-55451.firebaseapp.com",
-  projectId: "quiz-practice-55451",
-  storageBucket: "quiz-practice-55451.appspot.com",
-  messagingSenderId: "842699930343",
-  appId: "1:842699930343:web:4d7779bc27d7274abd0042",
-  measurementId: "G-B6E00Z79LT",
+  apiKey: process.env.REACT_APP_API_KEY,
+  authDomain: process.env.REACT_APP_AUTH_DOMAIN,
+  projectId: process.env.REACT_APP_PROJECT_ID,
+  storageBucket: process.env.STORAGE_BUCKET,
+  messagingSenderId: process.env.MESSAGING_SENDER_ID,
+  appId: process.env.APP_ID,
+  measurementId: process.env.MEASUREMENT_ID,
 };
 
 // Initialize Firebase
