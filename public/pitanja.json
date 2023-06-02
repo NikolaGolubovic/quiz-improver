@@ -44221,7 +44221,7 @@
   {
     "id": 10408,
     "question": "KOJI JE ČUVENI VESTERN IZ 1960. GODINE ZASNOVAN NA FILMU AKIRE KUROSAVE „SEDAM SAMURAJA“?",
-    "answer": "SEDMORICA VELIČANSTVENIH (THE MAGNIFICENT SEVEN"
+    "answer": "SEDMORICA VELIČANSTVENIH (THE MAGNIFICENT SEVEN)"
   },
   {
     "id": 10409,
@@ -44253,7 +44253,7 @@
   {
     "id": 10416,
     "question": "KOJI SE RED PTICA, POZNAT I KAO NOĆNE GRABLjIVICE, DELI NA PORODICE PRAVIH I KUKUVIJA?",
-    "answer": "SOVE (LAT. 5TE!OJEOVME5)"
+    "answer": "SOVE"
   },
   {
     "id": 10417,
@@ -44278,7 +44278,7 @@
   },
   {
     "id": 10422,
-    "question": "POD KOJIM JE GALICIZMOM NA SLOVO „TR“ POZNAT UPRAVLjAČ, TO JEST VOLAN NA BICIKLU ILI MOTOCIKLU?",
+    "question": "POD KOJIM JE GALICIZMOM NA SLOVO „G“ POZNAT UPRAVLjAČ, TO JEST VOLAN NA BICIKLU ILI MOTOCIKLU?",
     "answer": "GUVERNAL"
   },
   {
@@ -74339,7 +74339,7 @@
   },
   {
     "id": 24287,
-    "question": "KOJA DVA PADEŽA U SRPSKOM JEZIKU NEMAJU POVRATNU ZAMENICU SEBE, CE?",
+    "question": "KOJA DVA PADEŽA U SRPSKOM JEZIKU NEMAJU POVRATNU ZAMENICU SEBE, SE?",
     "answer": "NOMINATIV I VOKATIV"
   },
   { "id": 24288, "question": "KOJE GODINE JE ODRŽAN PRVI MUZIČKI FESTIVAL \"EGZIT '?", "answer": "2000. GODINE" },
@@ -74379,7 +74379,7 @@
     "question": "OBOJICA SU REDITELjI I PREZIVAJU SE MARKOVIĆ. JEDNOM JE IME GORAN. A DRUGOM...?",
     "answer": "JAGOŠ"
   },
-  { "id": 24309, "question": "KOJOJ DRŽAVI PRIPADA GRAD NTYJ?", "answer": "SPOVENIJI" },
+  { "id": 24309, "question": "KOJOJ DRŽAVI PRIPADA GRAD PTUJ?", "answer": "SLOVENIJI" },
   { "id": 24310, "question": "IZ KOJE ZEMLjE JE KOŠARKAŠKI KLUB \"KOLEJLILER“?", "answer": "IZ TURSKE" },
   { "id": 24311, "question": "OD KOJIH VRSTA REČI JE NASTAO PRILOG UNEDOGLED?", "answer": "OD PREDLOGA I IMENICE" },
   { "id": 24312, "question": "KOJA UMETNOST JE PROSLAVILA ŽILBERA BEKOA?", "answer": "MUZIKA" },
@@ -74391,7 +74391,7 @@
   {
     "id": 24314,
     "question": "U KOJOJ ZEMLjI JE SEDIŠTE KOMPANIJE \"KIRBI“, POZNATE PO PROIZVODNjI USISIVAČA?",
-    "answer": "USAD"
+    "answer": "USA"
   },
   { "id": 24315, "question": "· IZ KOJE ZEMLjE JE POREKLOM PAS RASE DOBEREMAN?", "answer": "IZ NEMAČKE" },
   { "id": 24316, "question": "KO SU BILE KRDžALIJE U OSMANSKOM CARSTVU?", "answer": "HAJDUCI" },
@@ -74400,7 +74400,7 @@
   { "id": 24319, "question": "NAJVEĆI GRAD NA OBALI KASPIJSKOG JEZERA JE...?", "answer": "BAKU" },
   {
     "id": 24320,
-    "question": "ČETIRI UZASTOPNE TITULE PRVAKA SRBIJE - OD 2003. DO 2013. GODINE OSVOJIO JE ŽENSKI RUKOMETNI SME?",
+    "question": "ČETIRI UZASTOPNE TITULE PRVAKA SRBIJE - OD 2003. DO 2013. GODINE OSVOJIO JE ŽENSKI RUKOMETNI KLUB?",
     "answer": "RK \"ZAJEČAR\""
   },
   { "id": 24321, "question": "NAŠ SLIKAR ŽESAROVIĆ ZVAO SE.?", "answer": "HRISTIFOR" },
@@ -74410,36 +74410,36 @@
   { "id": 24325, "question": "DRUGI KONTINENT PO VELIČINI NA SVETU JE.?", "answer": "AFRIKA" },
   { "id": 24326, "question": "U KOM SPORTU SE PROSLAVILA PETRA KVITOVA?", "answer": "U TENISU" },
   { "id": 24327, "question": "ITERATIV JE LATINSKI NAZIV ZA - KAKVE GLAGOLE?", "answer": "UČESTALE" },
-  { "id": 24328, "question": "ŠTA JE PO PROFESIJI NEMAČKA KANCELARKA ANGELA MERKELU?", "answer": "FIZKČARHA" },
-  { "id": 24329, "question": "VITAMIN \"S“ OTKRIO JE MAĐARSKU FIZIOLOG I BIOHEMIČAR.,?", "answer": "ALBERT SENT.LjERĐ" },
+  { "id": 24328, "question": "ŠTA JE PO PROFESIJI NEMAČKA KANCELARKA ANGELA MERKELU?", "answer": "HEMIČARKA" },
+  { "id": 24329, "question": "VITAMIN Ce OTKRIO JE MAĐARSKU FIZIOLOG I BIOHEMIČAR.,?", "answer": "ALBERT SENT ĐERĐI" },
   {
     "id": 24330,
     "question": "NA KOGA JE TURSKI TERORISTA MEHMET ALI AGDžA IZVRŠIO ATENTAT 1981 GODINE?",
     "answer": "NA PAPU JOVANA PAVLA II"
   },
-  { "id": 24331, "question": "KOJI PITERARNI JUNAK JE JAHAO N; KOBILI ROSINANTI?", "answer": "DON KIHS:" },
+  { "id": 24331, "question": "KOJI LITERALNI JUNAK JE JAHAO KOBILU ROSINANTU?", "answer": "DON KIHOT" },
   {
     "id": 24332,
     "question": "KOJI JUGOSLOVENSKI FILM JE 1969 GODINE BIO NOMINOVAN ZA \"OSKARA“»?",
     "answer": "\"BITKA NA NERETVI“"
   },
-  { "id": 24333, "question": "NAJJUŽNIJI GRAD NA SVETU SA VIŠE OD GIPION STABKOVNIKA JE?", "answer": "MELBURN" },
+  { "id": 24333, "question": "NAJJUŽNIJI GRAD NA SVETU SA VIŠE OD MILION STANOVNIKA JE?", "answer": "MELBURN" },
   { "id": 24334, "question": "KOJU SANSKRITSKU REČ KORISTIMO ZA SUDBINU?", "answer": "KARMA" },
   { "id": 24335, "question": "DIRIGENT JAGUŠT ZVAO CE...?", "answer": "MLADEN" },
   { "id": 24336, "question": "JEDINICA ZA TEŽINU DRAGOG KAMENA I BISERA JE...?", "answer": "KARAT" },
-  { "id": 24337, "question": "KOJI PROIZVOĐAČ AUTOMOBILA PROIZVODI MODEL \"“ABEO\"?", "answer": "ŠEVROLET" },
+  { "id": 24337, "question": "KOJI PROIZVOĐAČ AUTOMOBILA PROIZVODI MODEL \"“AvEO\"?", "answer": "ŠEVROLET" },
   { "id": 24338, "question": "ACIJBA, VASLITAČICA IJGL NA RUSKOM...?", "answer": "NjANjA" },
   {
     "id": 24339,
-    "question": "MIROSLAV MČANGAJKOVI M JE BIO: OPERSKI PEVAČ, KOMPOZITOR ILI VIOLINISTA?",
+    "question": "MIROSLAV ČANGALOVIĆ jE BIO: OPERSKI PEVAČ, KOMPOZITOR ILI VIOLINISTA?",
     "answer": "OPERSKI PEVAČ"
   },
-  { "id": 24340, "question": "ČAS AVI E RAS GU MP NI PREFIKSA MERNIH JEDINICA: EKSA, ZETA...?", "answer": "JOTA" },
-  { "id": 24341, "question": "TA JE PALISAD: DRVORED, OGRADA ILI STAKLENA BAŠTA?", "answer": "GRADA" },
+  { "id": 24340, "question": "NASTAVI NIZ PREFIKSA PREFIKSA MERNIH JEDINICA: EKSA, ZETA...?", "answer": "JOTA" },
+  { "id": 24341, "question": "ŠTA JE PALISAD: DRVORED, OGRADA ILI STAKLENA BAŠTA?", "answer": "OGRADA" },
   { "id": 24342, "question": "OJTA JU HZ LAKRIMAJ IE ŽE DE FR?", "answer": "SUZE" },
   {
     "id": 24343,
-    "question": "KAKO SE MAZIMA POLITIČKI VI KULTURNI POKRET KOJI TEŽI UJEDINjENjU SVIH SLOVENSKIH NARODCPA?",
+    "question": "KAKO SE MAZIVA POLITIČKI I KULTURNI POKRET KOJI TEŽI UJEDINjENjU SVIH SLOVENSKIH NARODA?",
     "answer": "PANSLAVIZAM"
   },
   { "id": 24344, "question": "NPOBELOVU NAGRADU ZA KNjIŽEVNOST 2016. GODINE DOBIO JE...?", "answer": "BOB DILAN" },
@@ -74450,7 +74450,7 @@
   { "id": 24349, "question": "KOJI JE SVETAC ZAŠTITNIK MOREPLOVACA?", "answer": "SVETI NIKOLA" },
   { "id": 24350, "question": "KOJA JE BOLEST U NARODU POZNATA KAO SUŠICA ILI JEKTIKA?", "answer": "TUBERKULOZA" },
   { "id": 24351, "question": "KAKO SE ZVAO OTAC STEVANA VISOKOG?", "answer": "LAZAR HREBELjANOVIĆ" },
-  { "id": 24352, "question": "U KOJOJ KNjIZI JE GLAVNI LIK MOGLIG?", "answer": "\"KNjIGA O DžUNGLI\"" },
+  { "id": 24352, "question": "U KOJOJ KNjIZI JE GLAVNI LIK MOGLI?", "answer": "\"KNjIGA O DžUNGLI\"" },
   { "id": 24353, "question": "KO JE TUMAČIO GLAVNU ŽENSKU ULOGU U FILMU \"KONjE UBIJAJU, ZAR HE\"?", "answer": "DžEJN FONDA" },
   { "id": 24354, "question": "KOJI JE NAJVIŠI VRH FRUŠKE GORE?", "answer": "CRVENI ČOT" },
   { "id": 24355, "question": "KOJA JE SKRAĆENICA ZA MEĐUNARODNU FEDERACIJU VODENIH SPORTOVA?", "answer": "EMA" },
@@ -74507,7 +74507,7 @@
   },
   { "id": 24399, "question": "ŠTA JE MAŠINGEVER: AUTOMATSKA PUŠKA. HELIKOPTER ILI AVION?", "answer": "AUTOMATSKA PUŠKA" },
   { "id": 24400, "question": "KOJOJ PORODICI BILjAKA PRIPADA ASPARAGUS?", "answer": "PORODICI LjILjANA" },
-  { "id": 24401, "question": "KOJE DVE GLASOVNE PROMENE SU IZVRŠENE U REČI RASPEĆE?", "answer": "JOTOVANjE I JEDNAČENjE..." },
+  { "id": 24401, "question": "KOJE DVE GLASOVNE PROMENE SU IZVRŠENE U REČI RASPEĆE?", "answer": "JOTOVANjE I JEDNAČENjE" },
   {
     "id": 24402,
     "question": "KOJI FRANCUSKI SLIKAR JE U XIX VEKU URADIO ILUSTRACIJE ZA BIBPIJU SA MOTIVIMA...?",
@@ -74549,7 +74549,7 @@
   {
     "id": 24416,
     "question": "MEĐU OSNIVAČIMA NATO PAKTA 1949. GODINE BILE SU I DVE VANEVROPSKE DRŽAVE. KOJE?",
-    "answer": "SAD PIKANADA"
+    "answer": "SAD I KANADA"
   },
   { "id": 24417, "question": "ROMAN \"PUTNIKOVA CIGLANA“ NAPISAO JE KNjIŽEVNIK...?", "answer": "RADOVAN BELI-GLARKOVIĆ" },
   { "id": 24418, "question": "KOJI GLUMAC JE PARTNER EMI STOUN U MUZIČKOM FILMU \"LA. PA LEND\"?", "answer": "RAJAN GOSLING" },
@@ -74566,7 +74566,7 @@
   { "id": 24425, "question": "ZARAZNU BOLEST KOŽE. ŠURU. IZAZIVAJU: BAKTERIJE. VIRUSI ILI PARAZITI»?", "answer": "PARAZITI" },
   {
     "id": 24426,
-    "question": "KOJU UZASTOPNU POBEDU JE NA ZAVRŠNOM \"ATR\" TURNIRU U LONDONU PROŠLE GODINE OSVOJIS OVA RIS V)AĆ?",
+    "question": "KOJU UZASTOPNU POBEDU JE NA ZAVRŠNOM \"WTA\" TURNIRU U LONDONU 2014. GODINE OSVOJILA SERENA VILIJAMS?",
     "answer": "TREĆU"
   },
   { "id": 24427, "question": "IZ KOG JEZIKA POTIČE REČ AMBLEM?", "answer": "IZ GRČKOG" },
@@ -74580,7 +74580,7 @@
   { "id": 24435, "question": "BOGINjA MESECA IM LOVA U STARORIMSKOJ MITOLOGIJI BILA JE...?", "answer": "DIJANA" },
   { "id": 24436, "question": "KAKO GLASI NARODNI NAZIV ZA DEČJU GLISTUR?", "answer": "PUNDRAVAC" },
   { "id": 24437, "question": "OD KOLIKO EMIRATA SE SASTOJE UJEDINjENI ARAPSKI EMIRATI?", "answer": "OD SEDAM" },
-  { "id": 24438, "question": "OD KOLIKO FUNTI JE NOVČANICA U NASLOVU PRIČE MARKA TVENA?", "answer": "ON MILION FUNTI" },
+  { "id": 24438, "question": "OD KOLIKO FUNTI JE NOVČANICA U NASLOVU PRIČE MARKA TVENA?", "answer": "OD MILION FUNTI" },
   { "id": 24439, "question": "ČIJI JE ADVOKAT U NASLOVU FILMA TEJLORA HAKFORDA IZ 1997. GODINE?", "answer": "ĐAVOLjI" },
   { "id": 24440, "question": "KOJOJ BALKANSKOJ DRŽAVI PRIPADA PLANINA RUMIJA?", "answer": "CRNOJ GORI" },
   {
